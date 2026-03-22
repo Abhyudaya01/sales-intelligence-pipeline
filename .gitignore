@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+.idea/
+data/kaggle_download/
+sales_pipeline.db
